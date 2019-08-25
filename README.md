@@ -6,3 +6,15 @@ The platform also boasts a threat detection program which detects any form of ar
 Presentation Link:
   https://drive.google.com/file/d/11rHfsvztL2AhCyV7iOGZz0dspJp5-_10/view?usp=sharing
   
+Video Links:
+   HopIn App & NFC Working Video Link
+      https://drive.google.com/file/d/152NopRqzZv9kKPZYRgtmeW5dRHQxOWFG/view?usp=sharing
+
+   Passenger Live Counting Video Link 
+     https://drive.google.com/file/d/1dzvzDr65GVIygfdp7TwalVDrRdqChKNu/view?usp=sharing
+  
+   AOG 
+    English
+      https://drive.google.com/open?id=1G5c_fQVYlFFKjsB-hJsk7GPBI6QKfyIC
+    Hindi
+     https://drive.google.com/open?id=1G5c_fQVYlFFKjsB-hJsk7GPBI6QKfyIC
